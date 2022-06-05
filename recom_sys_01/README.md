@@ -18,12 +18,13 @@
 
 3. 결과 평가 
 1) 협업 필터링을 이용한 제품 추천 
-<img src='https://user-images.githubusercontent.com/48609095/172058878-dc58f19d-b609-44fd-ad97-996173fd7942.png'>
+![image](https://user-images.githubusercontent.com/48609095/172059784-002cb670-c0cd-4ac4-ac0b-23b6786f0e23.png)
 
 2) 행렬 분해를 이용한 제품 추천 
+![image](https://user-images.githubusercontent.com/48609095/172059812-a7eae034-efd3-4c8f-8d40-930ce2615ce3.png)
 
 3) 딥러닝을 이용한 제품 추천 
-
+![image](https://user-images.githubusercontent.com/48609095/172059952-61687f22-b26f-48e0-8296-d59745ec0e0b.png)
 
 4. 특이사항 
 
