@@ -1,2 +1,2 @@
 # recom_sys
-recommendation system using pytorch 
+recommendation system 
